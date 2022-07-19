@@ -25,7 +25,9 @@
 a.about__social-icon:hover svg {
     fill: #5361ff;
 }
-
+.skills__name{
+    cursor: pointer;
+}
 @media screen and (min-width: 768px){
     :root{
         --big-font-size: 10.5rem;
